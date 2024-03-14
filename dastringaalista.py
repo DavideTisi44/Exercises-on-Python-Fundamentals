@@ -6,4 +6,5 @@ def SplitList(sd):
 
     return lista
 
-print(SplitList("4576384"))
+stringa1 = input("inserisci numero: ")
+print(SplitList(stringa1))
