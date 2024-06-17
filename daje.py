@@ -8,4 +8,3 @@ if a%2 == 0:
     print(b+c)
 else:
     print(b-c)
-ciao
